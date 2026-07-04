@@ -1,4 +1,4 @@
-# nyora-mihon-local
+# nyora-mihon
 
 A single **fully-local** Mihon extension: bundles the kotatsu-parsers engine and
 exposes ~900 sources that parse **on-device** — no server.
@@ -7,7 +7,7 @@ exposes ~900 sources that parse **on-device** — no server.
 Browse → Extensions → ⋮ → Extension repos → Add:
 
 ```
-https://raw.githubusercontent.com/Hasan72341/nyora-mihon-local/main/index.min.json
+https://raw.githubusercontent.com/Hasan72341/nyora-mihon/main/index.min.json
 ```
 
 Then install **Nyora (Local)** — one APK, all sources.
