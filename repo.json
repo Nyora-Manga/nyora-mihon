@@ -1,4 +1,1 @@
-{
-  "index_v2": null,
-  "meta": { "name": "Nyora (Local)", "shortName": "NyoraLocal", "website": "https://github.com/Hasan72341", "signingKeyFingerprint": "fa5ccdcfdd03d26e2bdf9a414532e2aad5899a1d6ae7f90fa0540ae1a6141f06" }
-}
+{ "index_v2": null, "meta": { "name": "Nyora-Sources", "shortName": "Nyora", "website": "https://github.com/Hasan72341", "signingKeyFingerprint": "fa5ccdcfdd03d26e2bdf9a414532e2aad5899a1d6ae7f90fa0540ae1a6141f06" } }
