@@ -1,1 +1,25 @@
-{ "index_v2": null, "meta": { "name": "Nyora-Sources", "shortName": "Nyora", "website": "https://github.com/Hasan72341", "signingKeyFingerprint": "fa5ccdcfdd03d26e2bdf9a414532e2aad5899a1d6ae7f90fa0540ae1a6141f06" } }
+{
+  "index_v2": null,
+  "extensions": [
+    {
+      "name": "Nyora-Sources",
+      "pkg": "eu.kanade.tachiyomi.extension.all.nyoralocal",
+      "apk": "eu.kanade.tachiyomi.extension.all.nyoralocal.apk",
+      "lang": "all",
+      "code": 1,
+      "version": "1.6.0",
+      "nsfw": 0,
+      "sources": null
+    },
+    {
+      "name": "Nyora-Sources 18+",
+      "pkg": "eu.kanade.tachiyomi.extension.all.nyoralocal18",
+      "apk": "eu.kanade.tachiyomi.extension.all.nyoralocal18.apk",
+      "lang": "all",
+      "code": 1,
+      "version": "1.6.0",
+      "nsfw": 1,
+      "sources": null
+    }
+  ]
+}
